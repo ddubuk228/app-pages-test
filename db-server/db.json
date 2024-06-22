@@ -1,0 +1,672 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "곰도리",
+      "email": "abc@gamil.com",
+      "notification": true,
+      "language": false,
+      "theme": false,
+      "maxBudget": "20000"
+    }
+  ],
+  "transaction": [
+    {
+      "id": "1",
+      "type": "income",
+      "category": "기타",
+      "account": "용돈",
+      "amount": 100000,
+      "memo": "",
+      "date": "2024-01-01"
+    },
+    {
+      "id": "2",
+      "type": "expense",
+      "category": "식비",
+      "account": "간식",
+      "amount": 10000,
+      "memo": "",
+      "date": "2024-01-03"
+    },
+    {
+      "id": "3",
+      "type": "expense",
+      "category": "교통비",
+      "account": "택시",
+      "amount": 8000,
+      "memo": "",
+      "date": "2024-01-12"
+    },
+    {
+      "id": "4",
+      "type": "income",
+      "category": "기타",
+      "account": "주움",
+      "amount": 5000,
+      "memo": "",
+      "date": "2024-01-22"
+    },
+    {
+      "id": "5",
+      "type": "expense",
+      "category": "교통비",
+      "account": "지하철",
+      "amount": 2500,
+      "memo": "",
+      "date": "2024-01-30"
+    },
+    {
+      "id": "6",
+      "type": "income",
+      "category": "기타",
+      "account": "용돈",
+      "amount": 100000,
+      "memo": "",
+      "date": "2024-02-01"
+    },
+    {
+      "id": "7",
+      "type": "expense",
+      "category": "식비",
+      "account": "음료",
+      "amount": 3500,
+      "memo": "",
+      "date": "2024-02-05"
+    },
+    {
+      "id": "8",
+      "type": "expense",
+      "category": "교통비",
+      "account": "버스",
+      "amount": 3000,
+      "memo": "",
+      "date": "2024-02-14"
+    },
+    {
+      "id": "9",
+      "type": "expense",
+      "category": "식비",
+      "account": "간식",
+      "amount": 5000,
+      "memo": "",
+      "date": "2024-02-16"
+    },
+    {
+      "id": "10",
+      "type": "income",
+      "category": "식비",
+      "account": "음식점",
+      "amount": 60000,
+      "memo": "",
+      "date": "2024-02-19"
+    },
+    {
+      "id": "11",
+      "type": "income",
+      "category": "기타",
+      "account": "용돈",
+      "amount": 50000,
+      "memo": "",
+      "date": "2024-03-01"
+    },
+    {
+      "id": "12",
+      "type": "income",
+      "category": "기타",
+      "account": "용돈",
+      "amount": 50000,
+      "memo": "",
+      "date": "2024-03-10"
+    },
+    {
+      "id": "13",
+      "type": "expense",
+      "category": "식비",
+      "account": "음료",
+      "amount": 9000,
+      "memo": "",
+      "date": "2024-03-10"
+    },
+    {
+      "id": "14",
+      "type": "expense",
+      "category": "교통비",
+      "account": "지하철",
+      "amount": 3500,
+      "memo": "",
+      "date": "2024-03-23"
+    },
+    {
+      "id": "15",
+      "type": "expense",
+      "category": "식비",
+      "account": "간식",
+      "amount": 6000,
+      "memo": "",
+      "date": "2024-03-24"
+    },
+    {
+      "id": "16",
+      "type": "income",
+      "category": "기타",
+      "account": "용돈",
+      "amount": 90000,
+      "memo": "",
+      "date": "2024-04-01"
+    },
+    {
+      "id": "17",
+      "type": "expense",
+      "category": "교통비",
+      "account": "버스",
+      "amount": 2000,
+      "memo": "",
+      "date": "2024-04-01"
+    },
+    {
+      "id": "18",
+      "type": "expense",
+      "category": "기타",
+      "account": "선물",
+      "amount": 12000,
+      "memo": "",
+      "date": "2024-04-11"
+    },
+    {
+      "id": "19",
+      "type": "expense",
+      "category": "식비",
+      "account": "간식",
+      "amount": 4500,
+      "memo": "",
+      "date": "2024-04-21"
+    },
+    {
+      "id": "20",
+      "type": "expense",
+      "category": "식비",
+      "account": "음식점",
+      "amount": 7000,
+      "memo": "",
+      "date": "2024-04-01"
+    },
+    {
+      "id": "21",
+      "type": "income",
+      "category": "기타",
+      "account": "용돈",
+      "amount": 90000,
+      "memo": "",
+      "date": "2024-05-01"
+    },
+    {
+      "id": "22",
+      "type": "expense",
+      "category": "기타",
+      "account": "음식점",
+      "amount": 10000,
+      "memo": "",
+      "date": "2024-05-20"
+    },
+    {
+      "id": "23",
+      "type": "income",
+      "category": "기타",
+      "account": "주움",
+      "amount": 5000,
+      "memo": "",
+      "date": "2024-05-05"
+    },
+    {
+      "id": "24",
+      "type": "expense",
+      "category": "교통비",
+      "account": "택시",
+      "amount": 5000,
+      "memo": "",
+      "date": "2024-05-20"
+    },
+    {
+      "id": "25",
+      "type": "expense",
+      "category": "기타",
+      "account": "음식점",
+      "amount": 5000,
+      "memo": "",
+      "date": "2024-05-01"
+    },
+    {
+      "id": "26",
+      "type": "income",
+      "category": "기타",
+      "account": "용돈",
+      "amount": 100000,
+      "memo": "",
+      "date": "2024-06-01"
+    },
+    {
+      "id": "27",
+      "type": "expense",
+      "category": "식비",
+      "account": "커피",
+      "amount": 5000,
+      "memo": "",
+      "date": "2024-06-11"
+    },
+    {
+      "id": "28",
+      "type": "income",
+      "category": "기타",
+      "account": "주움",
+      "amount": 5000,
+      "memo": "",
+      "date": "2024-06-11"
+    },
+    {
+      "id": "29",
+      "type": "income",
+      "category": "교통",
+      "account": "버스",
+      "amount": 2000,
+      "memo": "",
+      "date": "2024-06-29"
+    },
+    {
+      "id": "30",
+      "type": "expense",
+      "category": "식비",
+      "account": "음식점",
+      "amount": 3000,
+      "memo": "",
+      "date": "2024-09-04"
+    },
+    {
+      "id": "31",
+      "type": "expense",
+      "category": "식비",
+      "account": "간식",
+      "amount": 6000,
+      "memo": "",
+      "date": "2024-07-09"
+    },
+    {
+      "id": "32",
+      "type": "income",
+      "category": "식비",
+      "account": "음식점",
+      "amount": 70000,
+      "memo": "",
+      "date": "2024-07-31"
+    },
+    {
+      "id": "33",
+      "type": "expense",
+      "category": "식비",
+      "account": "간식",
+      "amount": 8500,
+      "memo": "",
+      "date": "2024-07-15"
+    },
+    {
+      "id": "34",
+      "type": "income",
+      "category": "식비",
+      "account": "음식점",
+      "amount": 55000,
+      "memo": "",
+      "date": "2024-07-18"
+    },
+    {
+      "id": "35",
+      "type": "expense",
+      "category": "식비",
+      "account": "간식",
+      "amount": 7200,
+      "memo": "",
+      "date": "2024-07-22"
+    },
+    {
+      "id": "36",
+      "type": "income",
+      "category": "식비",
+      "account": "음식점",
+      "amount": 48000,
+      "memo": "",
+      "date": "2024-08-07"
+    },
+    {
+      "id": "37",
+      "type": "expense",
+      "category": "식비",
+      "account": "간식",
+      "amount": 9200,
+      "memo": "",
+      "date": "2024-08-19"
+    },
+    {
+      "id": "38",
+      "type": "income",
+      "category": "식비",
+      "account": "음식점",
+      "amount": 61000,
+      "memo": "",
+      "date": "2024-08-03"
+    },
+    {
+      "id": "39",
+      "type": "expense",
+      "category": "식비",
+      "account": "간식",
+      "amount": 5500,
+      "memo": "",
+      "date": "2024-08-12"
+    },
+    {
+      "id": "40",
+      "type": "income",
+      "category": "식비",
+      "account": "음식점",
+      "amount": 62000,
+      "memo": "",
+      "date": "2024-08-24"
+    },
+    {
+      "id": "41",
+      "type": "expense",
+      "category": "식비",
+      "account": "간식",
+      "amount": 7800,
+      "memo": "",
+      "date": "2024-09-27"
+    },
+    {
+      "id": "42",
+      "type": "income",
+      "category": "식비",
+      "account": "음식점",
+      "amount": 53000,
+      "memo": "",
+      "date": "2024-09-14"
+    },
+    {
+      "id": "43",
+      "type": "expense",
+      "category": "식비",
+      "account": "간식",
+      "amount": 6800,
+      "memo": "",
+      "date": "2024-11-05"
+    },
+    {
+      "id": "44",
+      "type": "income",
+      "category": "식비",
+      "account": "음식점",
+      "amount": 54000,
+      "memo": "",
+      "date": "2024-09-01"
+    },
+    {
+      "id": "45",
+      "type": "expense",
+      "category": "식비",
+      "account": "간식",
+      "amount": 8900,
+      "memo": "",
+      "date": "2024-09-13"
+    },
+    {
+      "id": "46",
+      "type": "income",
+      "category": "식비",
+      "account": "음식점",
+      "amount": 67000,
+      "memo": "",
+      "date": "2024-10-25"
+    },
+    {
+      "id": "47",
+      "type": "expense",
+      "category": "식비",
+      "account": "간식",
+      "amount": 6000,
+      "memo": "",
+      "date": "2024-10-09"
+    },
+    {
+      "id": "48",
+      "type": "income",
+      "category": "식비",
+      "account": "음식점",
+      "amount": 70000,
+      "memo": "",
+      "date": "2024-10-31"
+    },
+    {
+      "id": "49",
+      "type": "expense",
+      "category": "식비",
+      "account": "간식",
+      "amount": 8500,
+      "memo": "",
+      "date": "2024-10-15"
+    },
+    {
+      "id": "50",
+      "type": "income",
+      "category": "식비",
+      "account": "음식점",
+      "amount": 55000,
+      "memo": "",
+      "date": "2024-10-18"
+    },
+    {
+      "id": "51",
+      "type": "expense",
+      "category": "식비",
+      "account": "간식",
+      "amount": 7200,
+      "memo": "",
+      "date": "2024-11-22"
+    },
+    {
+      "id": "52",
+      "type": "income",
+      "category": "식비",
+      "account": "카페",
+      "amount": 48000,
+      "memo": "",
+      "date": "2024-11-07"
+    },
+    {
+      "id": "53",
+      "type": "expense",
+      "category": "식비",
+      "account": "간식",
+      "amount": 9200,
+      "memo": "",
+      "date": "2024-11-19"
+    },
+    {
+      "id": "54",
+      "type": "income",
+      "category": "기타",
+      "account": "용돈",
+      "amount": 61000,
+      "memo": "",
+      "date": "2024-11-03"
+    },
+    {
+      "id": "55",
+      "type": "expense",
+      "category": "식비",
+      "account": "간식",
+      "amount": 5500,
+      "memo": "",
+      "date": "2024-11-12"
+    },
+    {
+      "id": "56",
+      "type": "income",
+      "category": "기타",
+      "account": "월급",
+      "amount": 62000,
+      "memo": "월급이다",
+      "date": "2024-12-24"
+    },
+    {
+      "id": "57",
+      "type": "expense",
+      "category": "식비",
+      "account": "커피",
+      "amount": 4000,
+      "memo": "",
+      "date": "2024-12-12"
+    },
+    {
+      "id": "58",
+      "type": "income",
+      "category": "기타",
+      "account": "용돈",
+      "amount": 53000,
+      "memo": "",
+      "date": "2024-12-14"
+    },
+    {
+      "id": "59",
+      "type": "expense",
+      "category": "식비",
+      "account": "커피",
+      "amount": 4000,
+      "memo": "",
+      "date": "2024-12-03"
+    },
+    {
+      "id": "60",
+      "type": "income",
+      "category": "식비",
+      "account": "삼겹살",
+      "amount": 54000,
+      "memo": "",
+      "date": "2024-12-01"
+    },
+    {
+      "id": "61",
+      "type": "income",
+      "category": "기타",
+      "account": "월급",
+      "amount": 54000,
+      "memo": "",
+      "date": "2024-06-11"
+    },
+    {
+      "id": "62",
+      "type": "expense",
+      "category": "식비",
+      "account": "햄버거",
+      "amount": 5400,
+      "memo": "",
+      "date": "2024-06-11"
+    },
+    {
+      "id": "63",
+      "type": "expense",
+      "category": "식비",
+      "account": "과자",
+      "amount": 2000,
+      "memo": "",
+      "date": "2024-06-11"
+    },
+    {
+      "id": "64",
+      "type": "expense",
+      "category": "식비",
+      "account": "커피",
+      "amount": 3000,
+      "memo": "햄버거",
+      "date": "2024-12-21"
+    },
+    {
+      "id": "65",
+      "type": "expense",
+      "category": "식비",
+      "account": "햄버거",
+      "amount": 5000,
+      "memo": "",
+      "date": "2024-12-21"
+    },
+    {
+      "id": "66",
+      "type": "expense",
+      "category": "식비",
+      "account": "음식점",
+      "amount": 4000,
+      "memo": "",
+      "date": "2024-12-21"
+    },
+    {
+      "id": "67",
+      "type": "income",
+      "category": "기타",
+      "account": "주움",
+      "amount": 500,
+      "memo": "",
+      "date": "2024-06-11"
+    },
+    {
+      "id": "68",
+      "type": "income",
+      "category": "기타",
+      "account": "용돈",
+      "amount": 500,
+      "memo": "",
+      "date": "2024-06-11"
+    },
+    {
+      "id": "69",
+      "type": "income",
+      "category": "기타",
+      "account": "용돈",
+      "amount": 500,
+      "memo": "",
+      "date": "2024-06-11"
+    },
+    {
+      "id": "70",
+      "type": "expense",
+      "category": "식비",
+      "account": "음식점",
+      "amount": 500,
+      "memo": "",
+      "date": "2024-06-11"
+    },
+    {
+      "id": "71",
+      "type": "expense",
+      "category": "식비",
+      "account": "과자",
+      "amount": 500,
+      "memo": "메모 됩니다",
+      "date": "2024-06-11"
+    },
+    {
+      "id": "72",
+      "type": "expense",
+      "category": "교통비",
+      "account": "택시",
+      "amount": 10000,
+      "memo": "작성",
+      "date": "2024-12-31"
+    },
+    {
+      "id": "73",
+      "type": "expense",
+      "category": "교통비",
+      "account": "집가고싶다",
+      "amount": 10000,
+      "memo": "작성",
+      "date": "2024-06-22"
+    }
+  ]
+}
